@@ -1,0 +1,30 @@
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.exe
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.deps.json
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.runtimeconfig.json
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.pdb
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.AssemblyInfoInputs.cache
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.AssemblyInfo.cs
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.csproj.CoreCompileInputs.cache
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\refint\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.pdb
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.genruntimeconfig.cache
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\ref\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Bait.38A54FBB.Up2Date
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.exe
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.deps.json
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.runtimeconfig.json
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\bin\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.pdb
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.AssemblyInfoInputs.cache
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.AssemblyInfo.cs
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.csproj.CoreCompileInputs.cache
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\refint\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.pdb
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Baitapmau _Bai2_loaidlCombobox.genruntimeconfig.cache
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\ref\1.2_Baitapmau _Bai2_loaidlCombobox.dll
+D:\Lab05_WinFormAdv_TranTrungHau_3124411087\5c\1.2_Baitapmau _Bai2_loaidlCombobox\obj\Debug\net10.0-windows\1.2_Bait.38A54FBB.Up2Date
