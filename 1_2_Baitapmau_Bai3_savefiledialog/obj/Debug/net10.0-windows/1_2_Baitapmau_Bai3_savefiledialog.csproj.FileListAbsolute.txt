@@ -1,0 +1,15 @@
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.AssemblyInfoInputs.cache
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.AssemblyInfo.cs
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.csproj.CoreCompileInputs.cache
+D:\1_2_Baitapmau_Bai3_savefiledialog\bin\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.exe
+D:\1_2_Baitapmau_Bai3_savefiledialog\bin\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.deps.json
+D:\1_2_Baitapmau_Bai3_savefiledialog\bin\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.runtimeconfig.json
+D:\1_2_Baitapmau_Bai3_savefiledialog\bin\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.dll
+D:\1_2_Baitapmau_Bai3_savefiledialog\bin\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.pdb
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.dll
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\refint\1_2_Baitapmau_Bai3_savefiledialog.dll
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.pdb
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Baitapmau_Bai3_savefiledialog.genruntimeconfig.cache
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\ref\1_2_Baitapmau_Bai3_savefiledialog.dll
+D:\1_2_Baitapmau_Bai3_savefiledialog\obj\Debug\net10.0-windows\1_2_Bait.360E8CB8.Up2Date
