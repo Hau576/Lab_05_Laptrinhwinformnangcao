@@ -1,0 +1,30 @@
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.AssemblyInfoInputs.cache
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.AssemblyInfo.cs
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.csproj.CoreCompileInputs.cache
+D:\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.exe
+D:\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.deps.json
+D:\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.runtimeconfig.json
+D:\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.dll
+D:\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.pdb
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.dll
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\refint\2_Bttl_Bai2_ frmBaitap2.dll
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.pdb
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.genruntimeconfig.cache
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\ref\2_Bttl_Bai2_ frmBaitap2.dll
+D:\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_B.706F1965.Up2Date
+D:\5d\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.exe
+D:\5d\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.deps.json
+D:\5d\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.runtimeconfig.json
+D:\5d\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.dll
+D:\5d\2_Bttl_Bai2_ frmBaitap2\bin\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.pdb
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.AssemblyInfoInputs.cache
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.AssemblyInfo.cs
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.csproj.CoreCompileInputs.cache
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.dll
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\refint\2_Bttl_Bai2_ frmBaitap2.dll
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.pdb
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_Bai2_ frmBaitap2.genruntimeconfig.cache
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\ref\2_Bttl_Bai2_ frmBaitap2.dll
+D:\5d\2_Bttl_Bai2_ frmBaitap2\obj\Debug\net10.0-windows\2_Bttl_B.706F1965.Up2Date

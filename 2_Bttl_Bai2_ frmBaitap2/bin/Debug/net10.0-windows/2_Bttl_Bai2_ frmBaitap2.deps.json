@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "2_Bttl_Bai2_ frmBaitap2/1.0.0": {
+        "runtime": {
+          "2_Bttl_Bai2_ frmBaitap2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_Bttl_Bai2_ frmBaitap2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
